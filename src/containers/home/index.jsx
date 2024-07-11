@@ -16,7 +16,7 @@ const Home = () => {
         <h1>
           Hello, I'm Dnyaneshwari
           <br />
-          Front end developer
+          ReactJS and NextJS Developer
         </h1>
       </div>
       <Animate

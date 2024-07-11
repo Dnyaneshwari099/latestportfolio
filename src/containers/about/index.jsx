@@ -9,11 +9,11 @@ import { FaDev, FaDatabase } from "react-icons/fa";
 const personalDetails = [
   {
     label: "Name",
-    value: "John Doe",
+    value: "Dnyaneshwari Pawar",
   },
   {
     label: "Age",
-    value: "27",
+    value: "21",
   },
   {
     label: "Address",
@@ -21,16 +21,16 @@ const personalDetails = [
   },
   {
     label: "Email",
-    value: "demo@example.com",
+    value: "dnyaneshwaripawar1805@gmail.com",
   },
   {
     label: "Contact No",
-    value: "+11 3456789056",
+    value: "+91 9021693029",
   },
 ];
 
 const jobSummary =
-  "Seasoned and independent Front End Developer with 5 years of experience in blending the art of design with skill of programming to deliver an immersive and engaging user experience through efficient website development, proactive feature optimization, and relentless debugging. Very passionate about aesthetics and UI design. It is imperative that you provide a thorough and professional approach to your resume. As a Front End Developer you will be judged by your ability to use UX and UI concepts and follow design guidelines. It is about expressing your attention to detail and how you can help implement design ideas for your future employer";
+  "As a seasoned React and Next.js developer with over [X] years of experience, I have a proven track record of building and optimizing high-performance web applications. My expertise lies in leveraging modern JavaScript frameworks to create seamless and responsive user interfaces, ensuring an exceptional user experience. I excel in translating complex business requirements into innovative technical solutions and have a strong background in collaborating with cross-functional teams to deliver scalable and maintainable code.";
 
 const About = () => {
   return (
@@ -52,7 +52,7 @@ const About = () => {
               transform: "translatex(0px)",
             }}
           >
-            <h3>Front End Developer</h3>
+            <h3>React and NextJS Developer</h3>
             <p>{jobSummary}</p>
           </Animate>
 
