@@ -1,42 +1,42 @@
 export const data = {
     experience: [
       {
-        title: "Consultant",
-        subTitle: "Miami, FL",
+        title: "SUMAGO INFOTECH SERVICES",
+        subTitle: "Web Developer Intern",
         description:
-          " User Experience, Visual Design",
+          "Received positive feedback from team leads for exceptional problem-solving skills and the ability to quickly learn new technologies ",
       },
       {
-        title: "Senior Consultant",
-        subTitle: "London, UK",
+        title: "TEA.COM",
+        subTitle: "VimanNagar,Pune",
         description:
-          "Web development, Databases, Backend developement",
+          "Delivered a fully functional website ahead of schedule, receiving positive feedback from the client for exceeding expectations",
       },
       {
-        title: "Project Manager",
-        subTitle: "Bangalore, INDIA",
+        title: "YHILLS PVT LTD",
+        subTitle: "Data Science Intern",
         description:
-          "Creative Direction Project Management, Team Leading",
+          "Developed and implemented predictive models to support business decision-making processes.Contributed to a project that improved customer segmentation, resulting in targeted marketing campaigns and a 10% increase in customer engagement",
       },
     ],
     education: [
       {
-        title: "Secondary",
-        subTitle: "ABC School",
+        title: "D Y PATIL INSTITUTE OF ENGINEERING MANAGEMENT AND RESEARCH ",
+        subTitle: "Computer Science Engineering",
         description:
-          "10th Grade",
+          "2021-2025",
       },
       {
-        title: "Higher Secondary",
-        subTitle: "ABC School of higher education",
+        title: "FERGUSSON JUNIOR COLLEGE",
+        subTitle: "12th Grade in Science",
         description:
-          "12th Grade in Science",
+          "Secured 87 percentage in 12th Board",
       },
       {
-        title: "B.Tech",
-        subTitle: "XYZ institute of technology",
+        title: "KASTURI SHIKSHAN SANSTHAN",
+        subTitle: "10th Grade",
         description:
-          "Bachelor of technology in computer science",
+          "Secured 94 percentage in 10th ICSE Board",
       },
     ],
   };

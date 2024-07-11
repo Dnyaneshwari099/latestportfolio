@@ -30,7 +30,7 @@ const personalDetails = [
 ];
 
 const jobSummary =
-  "As a seasoned React and Next.js developer with over [X] years of experience, I have a proven track record of building and optimizing high-performance web applications. My expertise lies in leveraging modern JavaScript frameworks to create seamless and responsive user interfaces, ensuring an exceptional user experience. I excel in translating complex business requirements into innovative technical solutions and have a strong background in collaborating with cross-functional teams to deliver scalable and maintainable code.";
+  " I have a proven track record of building and optimizing high-performance web applications. My expertise lies in leveraging modern JavaScript frameworks to create seamless and responsive user interfaces, ensuring an exceptional user experience. I excel in translating complex business requirements into innovative technical solutions and have a strong background in collaborating with cross-functional teams to deliver scalable and maintainable code.";
 
 const About = () => {
   return (

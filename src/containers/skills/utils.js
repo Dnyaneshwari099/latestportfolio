@@ -20,15 +20,15 @@ export const skillsData = [
       label: "BACK END",
       data: [
         {
-          skillName: "JAVA",
+          skillName: "REACTJS",
           percentage: "70",
         },
         {
-          skillName: "PYTHON",
+          skillName: "NEXTJS",
           percentage: "65",
         },
         {
-          skillName: "KOTLIN",
+          skillName: "NODEJS",
           percentage: "35",
         },
       ],
