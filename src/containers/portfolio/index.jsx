@@ -24,7 +24,7 @@ const portfolioData = [
   },
   {
     id: 2,
-    name: "Rasoitales",
+    name: "kuch bhiiiii",
     image: ImageThree,
     link: "https://recipe-murex-iota.vercel.app/",
   },
