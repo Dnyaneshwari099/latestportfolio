@@ -3,7 +3,7 @@ import PageHeaderContent from "../../components/pageHeaderContent";
 import { BsInfoCircleFill } from "react-icons/bs";
 import ImageOne from "../../images/1i.jpg";
 import ImageTwo from "../../images/cafe.jpeg";
-import ImageThree from "../../images/2.jpg";
+import ImageThree from "../../images/ra.jpg";
 import ImageFour from "../../images/h.jpg";
 // import ImageFive from "../../images/image5.jpg";
 import "./styles.scss";
