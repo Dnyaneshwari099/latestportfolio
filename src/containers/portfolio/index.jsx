@@ -5,7 +5,7 @@ import ImageOne from "../../images/ngo.jpeg";
 import ImageTwo from "../../images/cafe.jpeg";
 import ImageThree from "../../images/recipe.jpeg";
 import ImageFour from "../../images/home.jpeg";
-import ImageFive from "../../images/image5.jpg";
+// import ImageFive from "../../images/image5.jpg";
 import "./styles.scss";
 import { useState } from "react";
 
@@ -37,7 +37,7 @@ const portfolioData = [
   {
     id: 3,
     name: "Shopping cart design",
-    image: ImageFive,
+    image: "",
     link: "",
   },
 ];
