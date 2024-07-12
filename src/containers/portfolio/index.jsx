@@ -1,7 +1,7 @@
 import React from "react";
 import PageHeaderContent from "../../components/pageHeaderContent";
 import { BsInfoCircleFill } from "react-icons/bs";
-import ImageOne from "../../images/ngo.jpeg";
+import ImageOne from "../../images/1.jpg";
 import ImageTwo from "../../images/cafe.jpeg";
 import ImageThree from "../../images/recipe.jpeg";
 import ImageFour from "../../images/home.jpeg";
