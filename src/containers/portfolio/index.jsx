@@ -1,10 +1,10 @@
 import React from "react";
 import PageHeaderContent from "../../components/pageHeaderContent";
 import { BsInfoCircleFill } from "react-icons/bs";
-import ImageOne from "../../images/image1.jpg";
-import ImageTwo from "../../images/image2.jpg";
-import ImageThree from "../../images/image3.jpg";
-import ImageFour from "../../images/image4.jpg";
+import ImageOne from "../../images/ngo.jpeg";
+import ImageTwo from "../../images/cafe.jpeg";
+import ImageThree from "../../images/recipe.jpeg";
+import ImageFour from "../../images/home.jpeg";
 import ImageFive from "../../images/image5.jpg";
 import "./styles.scss";
 import { useState } from "react";
@@ -12,28 +12,27 @@ import { useState } from "react";
 const portfolioData = [
   {
     id: 2,
-    name: "Ecommerce",
+    name: "Namah Foundation ",
     image: ImageOne,
-    link: "",
+    link: "https://namah-lovat.vercel.app/",
   },
   {
     id: 3,
-    name: "Notes App",
-    link: "",
+    name: "Tea.com",
+    link: "https://cafe-livid-two.vercel.app/",
     image: ImageTwo,
   },
   {
     id: 2,
-    name: "Supplier Design",
+    name: "Rasoitales",
     image: ImageThree,
-    link: "",
+    link: "https://recipe-murex-iota.vercel.app/",
   },
   {
     id: 2,
-    name: "Todo App",
+    name: "SmartDwell UI",
     image: ImageFour,
-
-    link: "",
+    link: "https://home-automation-sepia.vercel.app/",
   },
   {
     id: 3,
