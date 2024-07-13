@@ -2,12 +2,13 @@ import React from "react";
 import PageHeaderContent from "../../components/pageHeaderContent";
 import { BsInfoCircleFill } from "react-icons/bs";
 import ImageOne from "../../images/1i.jpg";
-import ImageTwo from "../../images/cafe.jpeg";
+import ImageTwo from "../../images/com.jpg";
 import ImageThree from "../../images/2.jpg";
 import ImageFour from "../../images/h.jpg";
 // import ImageFive from "../../images/image5.jpg";
 import "./styles.scss";
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 const portfolioData = [
   {
@@ -115,7 +116,9 @@ const Portfolio = () => {
                 {index === hoveredValue && (
                   <div>
                     <p>{item.name}</p>
-                    <button>Visit</button>
+                    <button>
+                    <a href={item.link} target="_blank">Visit</a>
+                    </button>
                   </div>
                 )}
               </div>
