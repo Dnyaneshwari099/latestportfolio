@@ -15,12 +15,12 @@ const portfolioData = [
     id: 2,
     name: "Namah Foundation ",
     image: ImageOne,
-    link: "https://namah-lovat.vercel.app/",
+    link: "https://vercel.com/dnyaneshwari099s-projects",
   },
   {
     id: 3,
     name: "Tea.com",
-    link: "https://cafe-livid-two.vercel.app/",
+    link: "https://cafe-two-mauve.vercel.app/",
     image: ImageTwo,
   },
   {
