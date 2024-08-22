@@ -29,18 +29,6 @@ const portfolioData = [
     image: ImageThree,
     link: "https://recipe-murex-iota.vercel.app/",
   },
-  {
-    id: 2,
-    name: "SmartDwell UI",
-    image: ImageFour,
-    link: "https://home-automation-sepia.vercel.app/",
-  },
-  {
-    id: 3,
-    name: "Shopping cart design",
-    image: "",
-    link: "",
-  },
 ];
 
 const filterData = [
